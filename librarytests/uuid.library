@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emf.uuid.library.example:Library xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:emf.uuid.library.example="https://github.com/fredrikattebrant/emf.uuid.library.example/1.0" xmi:id="_sQQSEBj-EeKqFILuf-WxiA" name="The UUID library">
+  <writers xmi:id="_sQQSERj-EeKqFILuf-WxiA" books="_sQQSEhj-EeKqFILuf-WxiA" name="Fredrik Attebrant"/>
+  <books xmi:id="_sQQSEhj-EeKqFILuf-WxiA" author="_sQQSERj-EeKqFILuf-WxiA" title="Using UUIDs in ECore models"/>
+</emf.uuid.library.example:Library>
