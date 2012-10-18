@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emf.uuid.library.example:Library xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:emf.uuid.library.example="https://github.com/fredrikattebrant/emf.uuid.library.example/1.0" name="The library">
+  <writers books="//@books.0" name="Fredrik Attebrant"/>
+  <books author="//@writers.0" title="Using UUIDs in ECore models"/>
+</emf.uuid.library.example:Library>
