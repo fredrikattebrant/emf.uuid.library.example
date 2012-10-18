@@ -12,5 +12,12 @@
             class="Library.LibraryPackage"
             genModel="model/emf.uuid.library.example.genmodel"/>
    </extension>
+   <extension
+         point="org.eclipse.emf.ecore.extension_parser">
+      <parser
+            class="emf.uuid.library.example.Library.util.LibraryResourceFactory"
+            type="library">
+      </parser>
+   </extension>
 
 </plugin>

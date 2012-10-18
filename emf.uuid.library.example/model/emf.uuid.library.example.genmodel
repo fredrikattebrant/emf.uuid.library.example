@@ -4,8 +4,8 @@
     modelName="Emf.uuid.library" importerID="org.eclipse.emf.importer.ecore" complianceLevel="6.0"
     copyrightFields="false" classNamePattern="">
   <foreignModel>emf.uuid.library.example.ecore</foreignModel>
-  <genPackages prefix="Library" basePackage="emf.uuid.library.example" disposableProviderFactory="true"
-      ecorePackage="emf.uuid.library.example.ecore#/">
+  <genPackages prefix="Library" basePackage="emf.uuid.library.example" resource="XMI"
+      disposableProviderFactory="true" ecorePackage="emf.uuid.library.example.ecore#/">
     <genClasses ecoreClass="emf.uuid.library.example.ecore#//Library">
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute emf.uuid.library.example.ecore#//Library/name"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference emf.uuid.library.example.ecore#//Library/writers"/>
